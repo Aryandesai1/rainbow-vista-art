@@ -20,14 +20,7 @@ const Banner = () => {
   return (
     <div className="banner">
       <div className="carousel">
-        {images.map((image, index) => (
-          <img
-            key={index}
-            src={image}
-            alt={`Banner ${index + 1}`}
-            className={index === currentImageIndex ? 'active' : ''}
-          />
-        ))}
+        
       </div>
       <h1>Bringing Art to Life with Color and Sound</h1>
     </div>

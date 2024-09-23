@@ -8,7 +8,7 @@ body {
 
 header {
   background-color: #2c2c2c;
-  padding: 10px;
+  padding: 20px; /* Increased padding for better spacing */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -17,12 +17,12 @@ header {
 }
 
 header img {
-  height: 150px;
+  height: 100px; /* Reduced size to balance the header */
 }
 
 nav a {
   color: #f4f4f4;
-  margin: 0 15px;
+  margin: 0 20px; /* Increased spacing between navigation links */
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
@@ -34,7 +34,7 @@ nav a:hover {
 
 .banner {
   position: relative;
-  height: 400px;
+  height: 450px; /* Slightly increased height for more visual space */
   text-align: center;
   color: #fff;
   overflow: hidden;
@@ -67,61 +67,58 @@ nav a:hover {
 .banner h1 {
   position: relative;
   z-index: 10;
-  font-size: 3em;
+  font-size: 3.5em; /* Increased font size for emphasis */
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
   margin: 0;
-  padding-top: 150px;
+  padding-top: 120px; /* Adjusted to balance the banner */
 }
 
 .content {
-  padding: 40px 20px;
+  padding: 60px 30px; /* Increased padding for better spacing */
   max-width: 1200px;
   margin: 0 auto;
 }
 
 .section {
-  margin-bottom: 60px;
-  padding: 20px;
+  margin-bottom: 80px; /* Increased margin between sections */
+  padding: 30px; /* Increased padding for more space inside sections */
   background-color: #2c2c2c;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 .section img {
-  size: 50px;
-  padding: 0px;
+  max-width: 100%;
+  height: auto;
+  padding: 10px 0; /* Added padding around images for better spacing */
 }
 
 .section h2 {
-  font-size: 2.5em;
+  font-size: 2.8em; /* Slightly increased heading size */
   color: #ff9800;
-  margin-bottom: 20px;
+  margin-bottom: 25px; /* Added more space below the heading */
 }
-.section h3{
-  padding: 0px;
-  font-size: 25px;
-  margin: 0;
-  padding-top: 20px;
 
+.section h3 {
+  font-size: 20px;
+  margin: 20px 0; /* Adjusted to improve space between subheadings */
 }
 
 .section p, .section a {
-  font-size: 25px;
-  line-height: 1.6;
-  padding: 0px;
-  padding-bottom: 25px;
+  font-size: 20px;
+  line-height: 1.8;
+  margin-bottom: 20px; /* Added margin below paragraphs and links */
 }
 
-#contact-us{
+#contact-us {
   color: #ff9800;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
-  
-  
 }
-.show h3, .show p{
-  padding: 20px;
 
+.show h3, .show p {
+  padding: 10px; /* Reduced padding for better alignment */
 }
 
 .section a {
@@ -139,9 +136,8 @@ nav a:hover {
   display: flex;
   align-items: center;
   background-color: #3c3c3c;
-  padding: 20px;
-  margin: 10px ;
-  margin-left: 10px;
+  padding: 30px; /* Increased padding for larger clickable area */
+  margin: 20px 0; /* Added consistent margin around each show block */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s;
@@ -153,8 +149,8 @@ nav a:hover {
 
 .contact-form input, .contact-form textarea {
   width: 100%;
-  padding: 15px;
-  margin: 10px 0;
+  padding: 20px; /* Increased padding for larger inputs */
+  margin: 15px 0; /* Increased margin between input fields */
   border: 1px solid #555;
   border-radius: 8px;
   background-color: #2c2c2c;
@@ -162,12 +158,12 @@ nav a:hover {
 }
 
 .contact-form button {
-  padding: 15px 30px;
+  padding: 20px 40px; /* Increased padding for a larger button */
   background-color: #ff9800;
   color: #fff;
   border: none;
   border-radius: 8px;
-  font-size: 1.2em;
+  font-size: 1.4em;
   cursor: pointer;
   transition: background-color 0.3s;
 }
@@ -179,12 +175,12 @@ nav a:hover {
 footer {
   background-color: #2c2c2c;
   text-align: center;
-  padding: 20px;
+  padding: 30px; /* Increased padding for more space in the footer */
   box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
 }
 
 footer p {
-  margin: 5px 0;
+  margin: 10px 0; /* Increased spacing between footer paragraphs */
   color: #f4f4f4;
 }
 
