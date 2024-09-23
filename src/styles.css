@@ -193,3 +193,87 @@ footer a {
 footer a:hover {
   color: #e67e22;
 }
+/* Mobile styles (for smaller screens) */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column; /* Stack the logo and navigation vertically */
+    text-align: center;
+    padding: 10px;
+  }
+
+  header img {
+    height: 80px; /* Adjust logo size for mobile */
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column; /* Stack nav links vertically */
+  }
+
+  nav a {
+    margin: 10px 0; /* Add more space between links */
+  }
+
+  .banner {
+    height: 300px; /* Decrease banner height for smaller screens */
+  }
+
+  .banner h1 {
+    font-size: 2em; /* Decrease heading size */
+    padding-top: 80px; /* Adjust padding */
+  }
+
+  .content {
+    padding: 20px; /* Reduce padding for smaller screens */
+  }
+
+  .section h2 {
+    font-size: 2em; /* Reduce heading size */
+  }
+
+  .section p, .section a {
+    font-size: 1em; /* Reduce text size */
+  }
+
+  .show {
+    flex-direction: column; /* Stack items vertically */
+    padding: 20px;
+  }
+
+  .contact-form input, .contact-form textarea {
+    padding: 15px; /* Slightly reduce padding */
+  }
+
+  .contact-form button {
+    width: 100%; /* Make the button full width */
+    padding: 15px;
+    font-size: 1.2em;
+  }
+
+  footer {
+    padding: 20px; /* Adjust footer padding */
+  }
+}
+
+@media (max-width: 480px) {
+  .banner h1 {
+    font-size: 1.8em; /* Further reduce heading size for very small screens */
+    padding-top: 50px;
+  }
+
+  .section h2 {
+    font-size: 1.8em;
+  }
+
+  .section p, .section a {
+    font-size: 0.9em; /* Make text even smaller for very small screens */
+  }
+
+  .show {
+    padding: 15px;
+  }
+
+  .contact-form input, .contact-form textarea {
+    padding: 10px;
+  }
+}
