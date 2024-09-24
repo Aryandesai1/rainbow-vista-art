@@ -9,7 +9,7 @@ const Shows = () => {
       <h2>Upcoming Shows</h2>
       <div className="show">
         <img src={poster} alt='poster'></img>
-        <h3>Dayaben Dot Com</h3>
+        <h3>Dayaben.com</h3>
         <p> Date:tdb  Location:tdb</p>
         <p> Daya Ben is a simple homemaker, who is always engrossed in household chores. Her husband Amit considers her naive. Their college-going son Pratik enjoys his carefree life. Brother-in-law Falgun and sister-in-law Meghna work in corporate jobs. Meghna, with her beauty, good job, and salary, always overshadows Daya, creating a constant sense of inferiority. Falgun is a henpack husband. Daya's status within the household is lower than that of the domestic help. Daya is consistently taunted like a football by everyone. Upset, she tells her son that no one respects her at home. In response, Pratik suggests letting everyone live in their own space and not interfering in others' matters. Disheartened, Daya pleads to God, questioning where her space is if everyone is allowed to live in their own. Suddenly, a voice from the oracle declares that Dayaa logon kaa toh time aata hai, tumhara toh zamaana aayega...
 
