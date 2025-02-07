@@ -10,6 +10,20 @@ const Shows = () => {
       <div className="show">
         <img src={poster} alt='poster'></img>
         <h3>Dayaben.com</h3>
+        
+
+
+        
+        <p> The story revolves around Dayaben who is a simple homemaker and lives with her husband who considered her Naive.
+
+
+
+The story line amid ups and downs, unfolds in an entertaining Tom and Jerry style entertainment on Dayaben dot com.
+
+
+
+This hilarious comedy journey will bring you laughter and also have an important social message on woman empowerment, this show is a huge global success and is performed by prominent actors from Gujarati drama and movie Industry. 
+        </p>
         <p> Calgary - Chinese Cultural Center <br>
         </br> Date:March 8, 2025 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Tickets</a></p>
         <p> Edmonton - Christ the Way Seventh Day Adventist Church <br>
@@ -24,19 +38,6 @@ const Shows = () => {
         </br> Date:March 30, 2025 3:00 pm (EST)  <br></br> <a href="https://www.ticketmaster.ca/event/10006238B1452448">Tickets</a><br></br>
         Date:March 30, 2025 7:00 pm (EST)<br></br><a href="https://www.ticketmaster.ca/event/10006238B1732450">Tickets</a></p>
 
-
-
-        
-        <p> The story revolves around Dayaben who is a simple homemaker and lives with her husband who considered her Naive.
-
-
-
-The story line amid ups and downs, unfolds in an entertaining Tom and Jerry style entertainment on Dayaben dot com.
-
-
-
-This hilarious comedy journey will bring you laughter and also have an important social message on woman empowerment, this show is a huge global success and is performed by prominent actors from Gujarati drama and movie Industry. 
-        </p>
         
       </div>
     </section>
