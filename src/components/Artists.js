@@ -1,11 +1,11 @@
 import React from 'react';
 import '../styles.css';
-import artist1 from '../assets/images/Pratima.T.jpg';
-import artist2 from '../assets/images/Jitu_Kotak.jpg';
-import artist3 from '../assets/images/Yohana_vachhani.jpg'
-import artist4 from '../assets/images/Yunus_Patel.jpg'
-import artist5 from '../assets/images/Hitesh_Parekh.jpg'
-import artist6 from '../assets/images/Munir_Khan.jpg';
+import artist1 from '../assets/images/Pratima_T.png';
+import artist2 from '../assets/images/Jitu_Kotak.png';
+import artist3 from '../assets/images/Yohanna_Vachhani.png'
+import artist4 from '../assets/images/Yunus_Patel.png'
+import artist5 from '../assets/images/Hitesh_Parekh.png'
+import artist6 from '../assets/images/Munir_Khan.png';
 const Artists = () => {
   return (
     <section id="artists" className="section">

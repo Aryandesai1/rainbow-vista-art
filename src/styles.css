@@ -133,7 +133,7 @@ nav a:hover {
 }
 
 .show {
-  display: flex;
+  
   align-items: center;
   background-color: #3c3c3c;
   padding: 30px; /* Increased padding for larger clickable area */
@@ -143,9 +143,34 @@ nav a:hover {
   transition: transform 0.3s;
 }
 
+
 .show:hover {
   transform: scale(1.05);
 }
+
+.show img {
+  width: 750px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-bottom: 20px; /* Added margin below images */
+}
+
+.artist {
+  display: flex;
+  align-items: center; 
+  padding: 20px;
+  
+
+}
+.artist img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
 
 .contact-form input, .contact-form textarea {
   width: 100%;
