@@ -9,7 +9,7 @@ const Shows = () => {
       <h2>Upcoming Shows</h2>
       <div className="show">
         <img src={poster} alt='poster'></img>
-        <h3>Dayaben.com</h3>
+        <h1>Dayaben.com</h1>
         
 
 
@@ -24,19 +24,25 @@ The story line amid ups and downs, unfolds in an entertaining Tom and Jerry styl
 
 This hilarious comedy journey will bring you laughter and also have an important social message on woman empowerment, this show is a huge global success and is performed by prominent actors from Gujarati drama and movie Industry. 
         </p>
-        <p> Calgary - Chinese Cultural Center <br>
-        </br> Date:March 8, 2025 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Tickets</a></p>
-        <p> Edmonton - Christ the Way Seventh Day Adventist Church <br>
-        </br> Date:March 9, 2025 4:30 pm (MST)  <br></br> <a href="https://allevents.in/edmonton/dayaben-dot-com/80001223886284">Tickets</a></p>
-        <p> Vaughn - City Playhouse <br>
-        </br> Date:March 14, 2025 4:00 pm (EST) and second show 8:00 pm (EST)  <br></br> <a href="https://tickets.cityplayhouse.ca/event/655:438/">Tickets</a></p>
-        <p> Hamilton - Mcintyre Perfoming Arts Center <br>
-        </br> Date:March 16, 2025 4:00 pm (EST)  <br></br> <a href="https://ci.ovationtix.com/36734/performance/11587282">Tickets</a></p>
-        <p> London - Wolf Performance Hall <br>
-        </br> Date:March 23, 2025 4:00 pm (EST)  <br></br> <a href="https://allevents.in/london/dayaben-dot-com/80003404619945">Tickets</a></p>
-        <p> Mississauga - Meadowvale Theatre <br>
-        </br> Date:March 30, 2025 3:00 pm (EST)  <br></br> <a href="https://www.ticketmaster.ca/event/10006238B1452448">Tickets</a><br></br>
-        Date:March 30, 2025 7:00 pm (EST)<br></br><a href="https://www.ticketmaster.ca/event/10006238B1732450">Tickets</a></p>
+        <h3>Calgary</h3>
+        <p> Venue: Chinese Cultural Center <br>
+        </br> Date: March 8, 202<br></br> Showtime: 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Tickets</a></p>
+        <h3> Edmonton</h3>
+        <p>Venue: Christ the Way Seventh Day Adventist Church <br>
+        </br> Date March 9, 2025 <br></br>Showtime: 4:30 pm (MST)  <br></br> <a href="https://allevents.in/edmonton/dayaben-dot-com/80001223886284">Tickets</a></p>
+        <h3>Vaughan</h3>
+        <p>Venue: City Playhouse <br>
+        </br> Date:March 14, 2025<br></br>Showtimes: 4:00 pm (EST), 8:00 pm (EST)  <br></br> <a href="https://tickets.cityplayhouse.ca/event/655:438/">Tickets</a></p>
+        <h3> Hamilton</h3>
+        <p>Venue: Mcintyre Perfoming Arts Center <br>
+        </br> Date:March 16, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://ci.ovationtix.com/36734/performance/11587282">Tickets</a></p>
+        <h3> London </h3>
+        <p>Venue: Wolf Performance Hall <br>
+        </br> Date:March 23, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://allevents.in/london/dayaben-dot-com/80003404619945">Tickets</a></p>
+        <h3> Mississauga</h3>
+        <p>Venue: Meadowvale Theatre <br>
+        </br> Date:March 30, 2025<br></br>Showtimes:<br></br> 3:00 pm (EST)  <br></br> <a href="https://www.ticketmaster.ca/event/10006238B1452448">Tickets</a><br></br>
+        7:00 pm (EST)<br></br><a href="https://www.ticketmaster.ca/event/10006238B1732450">Tickets</a></p>
 
         
       </div>

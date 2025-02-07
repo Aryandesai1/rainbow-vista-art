@@ -154,8 +154,11 @@ nav a:hover {
   border-radius: 8px;
   object-fit: cover;
   margin-bottom: 20px; /* Added margin below images */
+  padding:10px
 }
-
+.show h1{
+  padding: 10px;
+}
 .artist {
   display: flex;
   align-items: center; 
