@@ -27,9 +27,7 @@ This hilarious comedy journey will bring you laughter and also have an important
         <h3>Calgary</h3>
         <p> Venue: Chinese Cultural Center <br>
         </br> Date: March 8, 202<br></br> Showtime: 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Tickets</a></p>
-        <h3> Edmonton</h3>
-        <p>Venue: Christ the Way Seventh Day Adventist Church <br>
-        </br> Date March 9, 2025 <br></br>Showtime: 4:30 pm (MST)  <br></br> <a href="https://allevents.in/edmonton/dayaben-dot-com/80001223886284">Tickets</a></p>
+        
         <h3>Vaughan</h3>
         <p>Venue: City Playhouse <br>
         </br> Date:March 14, 2025<br></br>Showtimes: 4:00 pm (EST), 8:00 pm (EST)  <br></br> <a href="https://tickets.cityplayhouse.ca/event/655:438/">Tickets</a></p>
