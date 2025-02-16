@@ -26,21 +26,21 @@ This hilarious comedy journey will bring you laughter and also have an important
         </p>
         <h3>Calgary</h3>
         <p> Venue: Chinese Cultural Center <br>
-        </br> Date: March 8, 202<br></br> Showtime: 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Tickets</a></p>
+        </br> Date: March 8, 202<br></br> Showtime: 7:00 pm (MST) <br></br> <a href="https://allevents.in/calgary/dayaben-dot-com/80004136077556?ref=quicksearch-event-results">Buy Tickets</a></p>
         
         <h3>Vaughan</h3>
         <p>Venue: City Playhouse <br>
-        </br> Date:March 14, 2025<br></br>Showtimes: 4:00 pm (EST), 8:00 pm (EST)  <br></br> <a href="https://tickets.cityplayhouse.ca/event/655:438/">Tickets</a></p>
+        </br> Date:March 14, 2025<br></br>Showtimes: 4:00 pm (EST), 8:00 pm (EST)  <br></br> <a href="https://tickets.cityplayhouse.ca/event/655:438/">Buy Tickets</a></p>
         <h3> Hamilton</h3>
         <p>Venue: Mcintyre Perfoming Arts Center <br>
-        </br> Date:March 16, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://ci.ovationtix.com/36734/performance/11587282">Tickets</a></p>
+        </br> Date:March 16, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://ci.ovationtix.com/36734/performance/11587282">Buy Tickets</a></p>
         <h3> London </h3>
         <p>Venue: Wolf Performance Hall <br>
-        </br> Date:March 23, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://allevents.in/london/dayaben-dot-com/80003404619945">Tickets</a></p>
+        </br> Date:March 23, 2025<br></br>Showtime: 4:00 pm (EST)  <br></br> <a href="https://allevents.in/london/dayaben-dot-com/80003404619945">Buy Tickets</a></p>
         <h3> Mississauga</h3>
         <p>Venue: Meadowvale Theatre <br>
-        </br> Date:March 30, 2025<br></br>Showtimes:<br></br> 3:00 pm (EST)  <br></br> <a href="https://www.ticketmaster.ca/event/10006238B1452448">Tickets</a><br></br>
-        7:00 pm (EST)<br></br><a href="https://www.ticketmaster.ca/event/10006238B1732450">Tickets</a></p>
+        </br> Date:March 30, 2025<br></br>Showtimes:<br></br> 3:00 pm (EST)  <br></br> <a href="https://www.ticketmaster.ca/event/10006238B1452448">Buy Tickets</a><br></br>
+        7:00 pm (EST)<br></br><a href="https://www.ticketmaster.ca/event/10006238B1732450">Buy Tickets</a></p>
 
         
       </div>
