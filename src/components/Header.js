@@ -8,7 +8,7 @@ const Header = () => {
       <img src={logo} alt="Rainbow Vista Art" className="logo" />
       <nav>
         <a href="#about-us">About Us</a>
-        <a href="#upcoming-shows">Shows</a>
+        <a href="#upcoming-shows">Book Tickets</a>
         <a href="#artists">Artists</a>
         <a href="#contact-us">Contact</a>
       </nav>
