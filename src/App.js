@@ -2,7 +2,8 @@ import React from 'react';
 import Header from './components/Header';
 import Banner from './components/Banner';
 import AboutUs from './components/AboutUs';
-import Shows from './components/Shows';
+import Upshows from './components/Upshows';
+import Prevshows from './components/Prevshows';
 import Artists from './components/Artists';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -14,7 +15,8 @@ function App() {
       <Header />
       <Banner />
       <AboutUs />
-      <Shows />
+      <Upshows />
+      <Prevshows/>
       <Artists />
       <Contact />
       <Footer />
