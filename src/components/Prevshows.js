@@ -1,38 +1,45 @@
 import React from 'react';
-//import '../styles.css';
 import poster from '../assets/images/poster.jpg';
 import InstagramEmbed from './InstagramEmbed';
 
 const PrevShows = () => {
   return (
-    <section id="previous-shows" className="section">
-      
-      <h2>Previous Events</h2>
-      <div className="show">
-        <img src={poster} alt='poster'></img>
-        <h1>Dayaben.com</h1>
-        
+    <section id="previous-shows" className="py-5 bg-body-secondary text-body">
+      <div className="container">
+        <h2 className="display-5 fw-bold text-center mb-5">Previous Events</h2>
 
+        <div className="row justify-content-center align-items-start">
+          <div className="col-md-6 mb-4">
+            <div className="card h-100 shadow-sm">
+              <img
+                src={poster}
+                alt="Dayaben.com"
+                className="card-img-top"
+                style={{ objectFit: 'cover', height: '300px' }}
+              />
+              <div className="card-body">
+                <h3 className="card-title">Dayaben.com</h3>
+                <p className="card-text">
+                  The story revolves around Dayaben, a simple homemaker living with a husband who considers her naive.
+                  Amidst hilarious ups and downs, their journey unfolds in a Tom & Jerry-style comedy packed with laughter
+                  and a powerful message on women empowerment.
+                  <br /><br />
+                  Successfully launched across Canada with multiple shows.
+                </p>
+              </div>
+            </div>
+          </div>
 
-        
-        <p> The story revolves around Dayaben who is a simple homemaker and lives with her husband who considered her Naive.
-
-
-
-The story line amid ups and downs, unfolds in an entertaining Tom and Jerry style entertainment on Dayaben dot com.
-
-
-
-This hilarious comedy journey will bring you laughter and also have an important social message on woman empowerment, we successfully launched this drama with multiple shows across Canada. 
-        </p>
-
-        <div className="reel-gallery">
-            <h1>Reviews</h1>
-        <InstagramEmbed url="https://www.instagram.com/reel/DHOVgg5OWt8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" />
-      </div>
+          <div className="col-md-6 mb-4">
+            <div className="bg-white p-3 rounded shadow-sm h-100">
+              <h4 className="fw-bold mb-3">Reviews</h4>
+              <InstagramEmbed url="https://www.instagram.com/reel/DHOVgg5OWt8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" />
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
-}
+};
 
 export default PrevShows;
