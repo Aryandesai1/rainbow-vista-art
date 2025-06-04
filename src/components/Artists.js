@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles.css';
+//import '../styles.css';
 import artist1 from '../assets/images/Pratima_T.png';
 import artist2 from '../assets/images/Jitu_Kotak.png';
 import artist3 from '../assets/images/Yohanna_Vachhani.png'

@@ -7,7 +7,8 @@ import Prevshows from './components/Prevshows';
 import Artists from './components/Artists';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './styles.css';
+import './index.css';
+//import './styles.css';
 
 function App() {
   return (

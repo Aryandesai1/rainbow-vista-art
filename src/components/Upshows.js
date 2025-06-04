@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles.css';
+//import '../styles.css';
 import poster from '../assets/images/poster.jpg';
 
 const UpShows = () => {
